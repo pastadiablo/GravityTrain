@@ -1,0 +1,17 @@
+Library/
+Temp/
+Obj/
+
+!Library/*.asset
+
+*.unityproj
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.DS_store
+Thumbs.db
+Thumbs.db.meta
+
+!*.dll
+Library/
